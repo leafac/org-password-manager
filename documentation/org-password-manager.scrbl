@@ -2,7 +2,7 @@
 
 @; NOTE: The contents of this manual should be rendered to text and included in “org-password-manager.el” as comments, so they show up in MELPA and in “M-x list-packages”.
 
-@title{Org Password Manager}
+@title{[ARCHIVED] Org Password Manager}
 @author{@author+email["Leandro Facchinetti" "me@leafac.com"]}
 
 @emph{Password manager for Org Mode.}
@@ -83,6 +83,10 @@ For advanced configuration, refer to @tt{M-x customize-group org-password-mana
 @section[#:tag "changelog"]{Changelog}
 
 This section documents all notable changes to Org Password Manager. It follows recommendations from @hyperlink["http://keepachangelog.com/"]{Keep a CHANGELOG} and uses @hyperlink["http://semver.org/"]{Semantic Versioning}. Each released version is a Git tag.
+
+@subsection[#:tag "changelog/archived"]{Archived · 2018-02-27}
+
+This project is archived and no longer maintained.
 
 @;{
  @subsection[#:tag "changelog/unreleased"]{Unreleased} @; 0.0.1 · 2016-02-23
